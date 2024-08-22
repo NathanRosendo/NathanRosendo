@@ -12,7 +12,7 @@ Tenho conhecimentos e estou cursando sobre : 👨‍💻 <br>
 Desenvolvimentos de Sistemas: <br> Onde estudo Redes de Computação vendo Protocolos; Camadas de Redes; Modelos e outros aspectos;<br> 
 Versionamento de Código conteúdo sobre Git e CMD;<br> 
 Lógica de Programação conhecimento em estruturas em Phyton e suas estruturas; <br>
-Inteligência Artificiai;<br>
+Inteligência Artificial;<br>
 Processos de desenvolvimentos de software estudando sobre os processos realizados no sofwtare de programas e Apps;<br>
 Carreiras e Compêtencias;<br> 
 <br>
@@ -27,6 +27,6 @@ Gosto de escutar músicas.<br>
 <br>
 Com esses cursos que sigo realizando tenho o objetivo de coseguir um bom emprego, onde eu cosiga<br>
 me manter bem financeiramente para ajudar minha familia;<br>
-Tenho objetivo de concluir meus etudos e realizar a faculdade planejada logo após<br>
+Tenho objetivo de concluir meus estudos e realizar uma faculdade planejada logo após;<br>
 Minhas maiores motivações são meus pais , pois conheço o dia a dia de cada um deles , conheço as <br>
 dificuldades e vejo-os conquistando metas e objetivos importantes.</h2>
