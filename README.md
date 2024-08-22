@@ -1,6 +1,6 @@
 <h1>Sejam Bem-Vindos ao meu GitHub ! </h1>
 
-<h2>Sobre mim:<h2> <br>
+<h2>Sobre mim:</h2> <br>
 Me chamo Nathan tenho 16 anos e estou cursando o ensino médio técnico; 📚 <br>
 <br>
 Resido na Zona Sul de São Paulo .<br>
