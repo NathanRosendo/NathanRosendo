@@ -5,7 +5,7 @@ Me chamo Nathan tenho 16 anos e estou cursando o ensino médio técnico; 📚 <b
 <br>
 Resido na Zona Sul de São Paulo .<br>
 <br>
-<h1> Experiência: <h1> 
+<h1> Experiência: </h1> 
 <br>
 Tenho conhecimentos e estou cursando sobre : 👨‍💻 <br>
 <br>
@@ -17,14 +17,14 @@ Processos de desenvolvimentos de software estudo sobre os processos realizados n
 Carreiras e Compêtencias e dentre;<br> 
 Ja inicie curso de inglês mas ainda não conclui .<br>
 <br>
-<h1> Hobbies : <h1> <br>
+<h1> Hobbies : </h1> <br>
 <br>
 Sempre tive o sonho e sigo levando minha carreira como jogador de futebol empresariado , sigo estudando estudando e cursando pois sei da importância para a vida; <br>
 Pratico musculação ; <br>
 Amo doces e comidas nordestinas e <br>
 Gosto de escutar músicas.<br>
 <br>
-<h1> Objetivos e Motivações : <h1> <br>
+<h1> Objetivos e Motivações : </h1> <br>
 <br>
 Com esses cursos que sigo realizando tenho o objetivo de coseguir um bom emprego, onde eu cosiga<br>
 me manter bem financeiramente para ajudar minha familia;<br>
