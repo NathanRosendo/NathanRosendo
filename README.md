@@ -15,8 +15,8 @@ Lógica de Programação conhecimento em estruturas em Phyton e suas estruturas;
 Inteligência Artificial;<br>
 Processos de desenvolvimentos de software estudando sobre os processos realizados no sofwtare de programas e Apps;<br>
 Carreiras e Compêtencias;<br>
-Nunca tive expêriencie em empresas, mas afirmo que sou uma pessoa esforçada e prestativa detro<br>
-de meu espaço e local oferecido. Assim trabalhando para o bem da equipe e da empresa prestada. 
+Mas afirmo que sou uma pessoa esforçada e prestativa detro de meu espaço e local oferecido.<br>
+ Assim trabalhando para o bem da equipe e da empresa prestada. 
 <br>
 <h2> Hobbies : </h2> <br>
 <br>
