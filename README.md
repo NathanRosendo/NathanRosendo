@@ -9,7 +9,7 @@ Resido na Zona Sul de São Paulo .<br>
 <br>
 Tenho conhecimentos e estou cursando sobre : 👨‍💻 <br>
 <br>
-Desenvolvimentos de Sistemas onde estudo Redes de Computação vendo Protocolos; Camadas de Redes; Modelos<br> 
+Desenvolvimentos de Sistemas: <br> Onde estudo Redes de Computação vendo Protocolos; Camadas de Redes; Modelos<br> 
 Versionamento de Código conteúdo sobre Git e CMD;<br> 
 Lógica de Programação conhecimento em estruturas em Phyton e suas estruturas; <br>
 IAs;<br>
