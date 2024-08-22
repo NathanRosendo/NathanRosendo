@@ -9,13 +9,12 @@ Resido na Zona Sul de São Paulo .<br>
 <br>
 Tenho conhecimentos e estou cursando sobre : 👨‍💻 <br>
 <br>
-Desenvolvimentos de Sistemas: <br> Onde estudo Redes de Computação vendo Protocolos; Camadas de Redes; Modelos<br> 
+Desenvolvimentos de Sistemas: <br> Onde estudo Redes de Computação vendo Protocolos; Camadas de Redes; Modelos e outros aspectos;<br> 
 Versionamento de Código conteúdo sobre Git e CMD;<br> 
 Lógica de Programação conhecimento em estruturas em Phyton e suas estruturas; <br>
-IAs;<br>
-Processos de desenvolvimentos de software estudo sobre os processos realizados no sofwtare de programas e Apps;<br>
+Inteligência Artificiai;<br>
+Processos de desenvolvimentos de software estudando sobre os processos realizados no sofwtare de programas e Apps;<br>
 Carreiras e Compêtencias;<br> 
-Ja inicie curso de inglês mas ainda não conclui .<br>
 <br>
 <h2> Hobbies : </h2> <br>
 <br>
